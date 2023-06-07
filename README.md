@@ -61,8 +61,8 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![out](https://github.com/VijayShankar10/webserverhttp-vijayshankar.student.saveetha.in/assets/121999019/65426e51-ff49-45bb-8ff4-e93bfef04112)
-![theia](https://github.com/VijayShankar10/webserverhttp-vijayshankar.student.saveetha.in/assets/121999019/c86b449e-2157-49ec-90f8-843257b2ebee)
+![OUTPUT](./out1.png)
+![OUTPUT](./out2.png)
 
 ## RESULT:
 The program for simple webserver is executed succesfully
